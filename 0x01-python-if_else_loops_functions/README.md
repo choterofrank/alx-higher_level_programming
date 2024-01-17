@@ -7,4 +7,13 @@ PYTHON - IF/ELSE, LOOPS, FUNCTIONS
 4-print_hexa.py: a program that prints all numbers from 0 to 98 in decimal and in hexadecimal
 5-print_comb2.py: a program that prints numbers from 0 to 99
 6-print_comb3.py:  program that prints all possible different combinations of two digits.
- 
+7-islower.py: 
+8-uppercase.py:
+ 9-print_last_digit.py :
+10-add.py :
+11-pow.py :
+12-fizzbuz.py :
+13-insert_number.c :
+100-print_tehbapla.py :
+101-revove_char_at.py :
+102-magic_calculation.py:
